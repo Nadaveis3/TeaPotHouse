@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 8162517b6ec2309499f99e303b29f146, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -153,7 +153,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: fbfa3eed514c30c428564f0d9db0da95,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.04
+      value: 1.08
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fbfa3eed514c30c428564f0d9db0da95,
         type: 3}
@@ -199,6 +199,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TeaPotHouse
+      objectReference: {fileID: 0}
+    - target: {fileID: 8901027480027043720, guid: fbfa3eed514c30c428564f0d9db0da95,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.197
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -401,13 +406,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1220908547}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.57283926, y: -0.2319146, z: 0.17324099, w: 0.7668496}
-  m_LocalPosition: {x: 34.848, y: 12.45, z: 39.2}
+  m_LocalRotation: {x: -0.5183677, y: -0.33648816, z: 0.3157289, w: 0.71999025}
+  m_LocalPosition: {x: 34.72, y: 13.37, z: 39.2}
   m_LocalScale: {x: 3.547866, y: 3.547866, z: 3.547866}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -52.959, y: -66.92, z: 61.905}
+  m_LocalEulerAnglesHint: {x: -32.274, y: -73.782, z: 71.861}
 --- !u!1 &1511452597
 GameObject:
   m_ObjectHideFlags: 0
@@ -496,13 +501,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1511452597}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalRotation: {x: 0.05616135, y: -0.93953055, z: 0.3275537, w: 0.082685545}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 38.666, y: -171.265, z: -3.772}
 --- !u!114 &1511452600
 MonoBehaviour:
   m_ObjectHideFlags: 0
