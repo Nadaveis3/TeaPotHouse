@@ -25,8 +25,8 @@ Material:
     m_TexEnvs:
     - _TextureSample0:
         m_Texture: {fileID: 2800000, guid: a60bfcee7b98fca45afc2f96fd2034d2, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 1}
     - _texcoord:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -46,14 +46,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaCutoff: 0.5
-    - _BlendEffect: 0.704
+    - _BlendEffect: 0.621
     - _EnvironmentReflections: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _SpecularHighlights: 1
     m_Colors:
-    - _Color0: {r: 0.38215905, g: 0.5, b: 0.2759434, a: 0}
+    - _Color0: {r: 0.21659291, g: 0.3584906, b: 0.093004644, a: 0}
     - _Color1: {r: 0.4010803, g: 0.4245283, b: 0.1501869, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
